@@ -1,0 +1,23 @@
+1. New Semantic Elements
+
+HTML5 introduces new elements to improve the structure and semantics of web pages:
+
+<header>: Defines the header section of a document or section.
+<footer>: Defines the footer section of a document or section.
+<article>: Represents independent, self-contained content.
+
+2. New Form Controls
+HTML5 improves form handling with new input types and attributes:
+
+New Input Types: email, url, number, range, date, time, color, etc.
+
+3. Graphics and Multimedia
+HTML5 natively supports audio, video, and graphical content:
+
+<audio>: Embeds audio content.
+<video>: Embeds video content.
+
+4. Offline and Storage Features
+AppCache: Enables offline browsing by caching resources.
+Web Storage: Provides localStorage and sessionStorage for client-side storage.
+IndexedDB: For larger, structured storage.

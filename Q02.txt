@@ -1,0 +1,15 @@
+HTML entities are special codes or character references used to display reserved characters in HTML, such as <, >, and &, which might otherwise be interpreted as part of the HTML syntax. They also provide a way to include symbols and characters not present on a standard keyboard.
+
+HTML entities are written as:
+
+&entity_name; (e.g., &lt;)
+&#entity_number; (e.g., &#60;)
+
+
+5 Commonly Used HTML Entities
+Character	Entity Name	Entity Number	Description
+<	        &lt;	    &#60;	        Less-than symbol
+>	        &gt;	    &#62;	        Greater-than symbol
+&	        &amp;	    &#38;	        Ampersand
+"	        &quot;	    &#34;	        Double quotation mark
+'	        &apos;	    &#39;	        Single quotation mark (apostrophe)
